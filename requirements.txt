@@ -1,0 +1,5 @@
+recombee-api-client
+pandas
+python-dateutil
+numpy
+python-dotenv
