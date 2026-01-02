@@ -3,3 +3,4 @@ pandas
 python-dateutil
 numpy
 python-dotenv
+streamlit
